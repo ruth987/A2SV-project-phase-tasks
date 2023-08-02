@@ -27,7 +27,7 @@ Installation
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/ruth987/A2SV-project-phase-tasks/
 
 Navigate to the project directory:
 
@@ -47,8 +47,9 @@ The application will be accessible at http://localhost:3000.
 
 Acknowledgments
 Thanks to the creators of React, Tailwind CSS, and TypeScript for providing excellent tools to build modern web applications.
+
 Contact
 
-If you have any questions or feedback, please feel free to contact us at your-email@example.com.
+If you have any questions or feedback, please feel free to contact me at ruth.wossen@a2sv.org.
 
 Happy task managing with the Todo List application! 🚀
